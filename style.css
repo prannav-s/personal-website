@@ -333,6 +333,10 @@ section {
     justify-content: space-around;
 }
 
+.article-container p {
+    width: 100px;
+}
+
 article {
     display: flex;
     width: 10rem;
