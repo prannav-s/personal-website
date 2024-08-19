@@ -216,6 +216,7 @@ section {
     gap: 1rem;
 }
 
+
 .btn {
     font-weight: 600;
     transition: all 300 ms ease;
@@ -223,6 +224,7 @@ section {
     width: 8rem;
     border-radius: 2rem;
 }
+
 
 .btn-color-1, .btn-color-2 {
     border: rgb(53, 53, 53) 0.1rem solid;
