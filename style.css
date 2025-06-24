@@ -378,6 +378,10 @@ article .icon {
     border-color: rgb(163, 163, 163);
 }
 
+.project-2 {
+    flex: 2;
+}
+
 /* CONTACT */
 
 #contact {
